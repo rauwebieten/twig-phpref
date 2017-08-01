@@ -1,0 +1,13 @@
+{
+  "name": "rauwebieten/twig-phpref",
+  "require": {
+    "php": ">=5.4.0",
+    "twig/twig": "^1.0",
+    "digitalnature/php-ref": "^1.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "RauweBieten\\TwigPhpRef\\": "src/"
+    }
+  }
+}
